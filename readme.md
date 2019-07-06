@@ -17,15 +17,6 @@ Yaw speed min/max paramter ranges extended
 
 Galileo GPS Satellites reception enabled
 
-
-
-
-===
-
-# Notes From the Author:
-• 
-===
-
 ***Firmware Compatibility:***
 
 To use this Custom firmware, your DJI Spark MUST BE ON STOCK FW v01.00.0900
